@@ -1,7 +1,10 @@
 import React from "react";
 
 function Charts() {
-  return <h3>Stock Profit Chart</h3>;
+<<<<<<< HEAD
+<h3>IPO & Stock Profit Chart</h3>
+
+>>>>>>> chart-feature
 }
 
 export default Charts;
