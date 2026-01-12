@@ -1,12 +1,7 @@
 import React from "react";
 
 function Charts() {
-  return (
-    <div>
-      <h3>Profit Chart</h3>
-      <p>Graph will be displayed here</p>
-    </div>
-  );
+  return <h3>Stock Profit Chart</h3>;
 }
 
 export default Charts;
